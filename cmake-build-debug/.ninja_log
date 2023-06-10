@@ -1,0 +1,6 @@
+# ninja log v5
+975	1435	7081104547999828	first_project.exe	3fa4d3727f2d331e
+1	974	7081104543545738	CMakeFiles/first_project.dir/main.cpp.obj	fef6abd5d66bff53
+5	231	7081105817661608	build.ninja	910f5699108c174e
+0	1153	7081105992444217	CMakeFiles/geron_func.dir/main.cpp.obj	a6fee402e500cfe3
+1154	1805	7081105998743198	geron_func.exe	dda97098f2a57adb
